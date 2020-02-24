@@ -3,7 +3,7 @@
 ## Part 1: 
 Get the Weather Description and Amount of Precipitation for Each City
 
-Steps taken:
+**Steps taken:**
   
 The code from practice where 1500 random latitudes and longitudes were retrieved is taken and follwoing info was added:
   
@@ -25,7 +25,7 @@ No. of cities that recorded snow - 25
 ## Part 2
 Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
   
-Steps taken:
+**Steps taken:**
   
 We used the csv file from Part 1 above and filtered the data based on user prompts for max and min temp, rainfall(yes/no) and snow(yes/no) using the if-elif-else statement.
   
@@ -38,12 +38,11 @@ Cities with hotel info were plotted on a marker layer map along with pop up info
     
 
 
-## Part 3
-  
+## Part 3 
 Create a Travel Itinerary with a Corresponding Map
   
 
-Steps Taken:
+**Steps Taken:**
   
 Direction API was enabled on GCP.
   
