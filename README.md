@@ -4,14 +4,23 @@
 Get the Weather Description and Amount of Precipitation for Each City
 
 Steps taken:
+  
 The code from practice where 1500 random latitudes and longitudes were retrieved is taken and follwoing info was added:
+  
 Weather description - using the info from json 
+  
 Rain Inches(last 3 hrs) - using try-except method
+  
 Snow Inches(last 3 hrs) - usiing try-except method
+  
+    
 
 A new dataframe was created and saved as WeatherPy_challenge.csv
+  
 No. of cities that recorded rain - 
+  
 No. of cities that recorded snow - 
+  
 
 ## Part 2
 Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
