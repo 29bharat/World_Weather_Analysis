@@ -17,9 +17,9 @@ Snow Inches(last 3 hrs) - usiing try-except method
 
 A new dataframe was created and saved as WeatherPy_challenge.csv
   
-No. of cities that recorded rain - 
+No. of cities that recorded rain - 65
   
-No. of cities that recorded snow - 
+No. of cities that recorded snow - 25
   
 
 ## Part 2
